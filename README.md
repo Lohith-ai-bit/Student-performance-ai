@@ -220,7 +220,7 @@ student-performance-ai/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kolalohithkumar/Student-performance-ai.git
+   git clone https://github.com/Lohith-ai-bit/Student-performance-ai.git
    cd Student-performance-ai
    ```
 
