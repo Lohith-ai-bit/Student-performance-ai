@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Next.js
+.next/
+out/
+next-env.d.ts
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Python tooling
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ML artifacts (trained models are binary outputs, not source)
+ml/artifacts/*.joblib
+ml/artifacts/*.json
+ml/data/raw/
+ml/data/processed/
+
+# Uploads / temp
+uploads/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
